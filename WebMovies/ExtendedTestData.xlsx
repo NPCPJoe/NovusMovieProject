@@ -1,0 +1,32 @@
+Film ID, Film Name, IMDB Rating, Director ID, Director, Actor ID, Actor, Year
+0145487, Spider-Man,7.3,600, Sam Raimi,1497, Tobey Maguire,2002
+2975590, Batman v Superman: Dawn of Justice,7,811583, Zack Snyder,147147, Henry Cavill,2016
+2975590, Batman v Superman: Dawn of Justice,7,811583, Zack Snyder,255, Ben Affleck,2016
+3322312, Daredevil,8.8,425756, Mark Steven Johnson,255, Ben Affleck,2003
+7060795, X-Men Apocalypse,7.2,789923, Bryan Singer,996, James McAvoy,2016
+943245, Batman: The Dark Knight,9,875765, Christopher Nolan,891,Christian Bale,2008
+8065433, Batman: The Dark Knight Rises,8.5,875765, Christopher Nolan,891,Christian Bale,2012
+703421, Man Of Steel,7.1,811583, Zack Snyder,147147, Henry Cavill,2013
+9034678,X-Men: Days of Future Past,8,789923,Bryan Singer,876,Patrick Stewert,2014
+2215593,X-Men:First Class,7.8,700000,Matthew Vaughn,996,James McAvoy,2011
+6758321,Deadpool,8.1,900000,Tim Miller,543,Ryan Reynolds,2016
+3924678,Suicide Squad,6.5,865000,David Ayer,690,Will Smith,2016
+865321,Batman Begins,8.3,875765,Christopher Nolan,891,Christian Bale,2005
+5432167,Avengers Assemble,8.1,101101,Joss Whedon,123,Robert Downey Jr.,2012
+5690231,Avengers: Age of Ultron,7.5,101101,Joss Whedon,123,Robert Downey Jr.,2015
+1234567,Captain America: The First Avenger,6.9,104101,Joe Johnston,654,Chris Evans,2011
+6688901,Captain America: The Winter Soilder,7.8,143550,Anthony Russo,654,Chris Evans,2014
+771234,Captain America: Civil War,8,143550,Anthony Russo,654,Chris Evans,2016
+3214567,The Amazing Spider-Man,7,899011,Marc Webb,465,Andrew Garfield,2012
+2116350,Iron Man,7.9,499000,Jon Favreau,123,Robert Downey Jr.,2008
+2126350,Iron Man 2,7,499000,Jon Favreau,123,Robert Downey Jr.,2010
+2123630,Iron Man 3,7.2,750550,Shane Black,123,Robert Downey Jr.,2013
+5588997,Guardians Of The Galaxy,8.1,717110,James Gunn,346,Chris Pratt,2014
+3695411,X-Men: The Last Stand,6.8,212000,Brett Ratner,876,Patrick Stewert,2006
+9996661,Thor: The Dark World,7.1,899899,Alan Taylor,879,Chris Hemsworth,2013
+6554870,Thor,7,722000,Kenneth Branagh,879,Chris Hemsworth,2011
+2855699,The Green Lantern,5.6,777111,Martin Campball,543,Ryan Reynolds,2011
+3215658,The Amazing Spider-Man 2,6.7,899011,Marc Webb,465,Andrew Garfield,2014
+3246558,Teenage Mutant Ninja Turtles,5.9,921000,Jonathan Liebesman,655,Megan Fox,2014
+745561,Fantastic Four,4.3,644123,Josh Trank,913,Miles Teller,2015
+5123533,Ant-Man,7.4,333666,Peyton Reed,644,Paul Rudd,2015
